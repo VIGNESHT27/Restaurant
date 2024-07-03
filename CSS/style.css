@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.hero
+{
+    height: 100vh;
+    width: 100%;
+    background-image:url(images1/vignesh_landscape.jpeg); 
+    background-size: cover;
+    background-position: center;
+
+}
+
+nav{
+    display: flex;
+
+
+
+}
